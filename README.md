@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KalinaElijah
 - 👀 I’m interested in NOTHING
 - 🌱 I’m currently learning COMPUTER SCIENCE
-- 💞️ I’m looking to collaborate on COOLNEBULA.COM
-- 📫 How to reach me admin@coolnebula.com
+- 💞️ I’m looking to collaborate on es3d.org
+- 📫 How to reach me admin@es3d.org
 
 <!---
 KalinaElijah/KalinaElijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
